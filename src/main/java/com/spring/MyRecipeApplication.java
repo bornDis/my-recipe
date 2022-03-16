@@ -10,5 +10,6 @@ public class MyRecipeApplication {
 		SpringApplication.run(MyRecipeApplication.class, args);
 
 		System.out.println("It is Working!!!!");
+
 	}
 }
